@@ -1,2 +1,3 @@
 # react-boiler
-React starter template 
+React starter template .
+This is my first commit.
